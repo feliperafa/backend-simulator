@@ -11,7 +11,6 @@ Comando para iniciar a API
 
 *Retorno*
 
-// 20210301155629
 // http://localhost:3001/products
 
 
